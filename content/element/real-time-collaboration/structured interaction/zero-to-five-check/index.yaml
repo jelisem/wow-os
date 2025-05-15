@@ -1,0 +1,92 @@
+---
+type: element
+id: zero-to-five-check
+name: Zero to Five Check
+category: real-time-collaboration > structured-interaction
+alias:
+  - Fist-to-Five
+  - Fist of Five
+  - Five-Finger Voting
+  - Consent Check
+  - Pulse Check
+  - 0 to 5 Check
+  - 0–5 Voting
+  - ROTI
+  - Confidence Vote
+  - Energy Check
+description: Zero to Five Check is a fast, visible technique for gauging group
+  alignment, confidence, or sentiment using a hand signal, number, or alternate
+  channel. Participants indicate their stance on a topic from 0 (none) to 5
+  (full support), enabling teams to surface differences and spark meaningful
+  discussion quickly.
+image: zero-to-five-consensus.svg
+tags:
+  - group alignment
+  - visual voting
+  - rating method
+  - consensus
+files:
+  - name: structured-interaction-details.md
+    title: How to Use This Interaction
+    description: Step-by-step instructions, timing, and materials for running this structured interaction.
+    contributors:
+      - name: Elise Keith
+        affiliation: Lucid Meetings
+        role: Author
+        url: https://www.linkedin.com/in/elisekeith/
+  - name: zero-to-five-questions-and-scales-chat-prompts.md
+    title: Example Questions and Scales
+    description: A set of 0–5 rating examples with follow-up prompts for team discussion.
+    contributors:
+      - name: Elise Keith
+        affiliation: Lucid Meetings
+        role: Author
+        url: https://www.linkedin.com/in/elisekeith/
+  - name: zero-to-five-technique-guide.pdf
+    title: Zero to Five Technique Guide (PDF)
+    description: A printable facilitation guide and visual overview of the technique.
+    contributors:
+      - name: Elise Keith
+        affiliation: Lucid Meetings
+        role: Author
+        url: https://www.linkedin.com/in/elisekeith/
+  - name: zero-to-five-consensus.svg
+    title: The Zero to Five Consensus Check Scale
+    description: A visual reference showing the hand signals for 0 through 5 and their meaning when checking consensus. Created using licensed Noun project icons.
+    contributors:
+      - name: Elise Keith
+        affiliation: Lucid Meetings
+        role: Illustrator
+        url: https://www.linkedin.com/in/elisekeith/
+  - name: zero-to-five-no-text.svg
+    title: A Zero to Five Diagram with no text
+    description: A visual reference showing the hand signals for 0 through 5 ratings. Created using licensed Noun project icons.
+    contributors:
+      - name: Elise Keith
+        affiliation: Lucid Meetings
+        role: Illustrator
+        url: https://www.linkedin.com/in/elisekeith/
+references:
+  - title: Fist to Five
+    author: Lucid Meetings
+    url: https://www.lucidmeetings.com/glossary/fist-five
+  - title: Get to 'Yes' Using 5-Finger Consensus
+    author: Michael Wilkinson
+    publication: Leadership Strategies
+    url: https://www.leadstrat.com/5-finger-consensus/
+  - title: Confidence Voting
+    author: Tim Beattie and Matt Takane
+    url: https://openpracticelibrary.com/practice/confidence-voting/
+  - title: "Fist to Five and Frodo: How to find consensus"
+    author: MIT ORSEL
+    url: https://www.youtube.com/watch?v=b4B7FQxND6w
+origin:
+  - name: Unknown
+    description: Often attributed to a 2004 publication by the American Youth
+      Foundation, its roots are intertwined with earlier consensus-building
+      practices from activist and participatory democracy movements in the late
+      20th century. Jean Tabaka helped spread the method to the software
+      development community by including it in the 2006 publication of
+      'Collaboration Explained' as a team alignment and consent technique using
+      a five-finger scale.
+---

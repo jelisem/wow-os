@@ -1,0 +1,22 @@
+---
+type: challenge
+id: unspoken-misalignment
+name: Unspoken Misalignment
+category: problem
+alias: []
+description: >
+  When people accept silence for agreement, decisions fall apart and trust erodes.
+image: ""
+tags: []
+files:
+ - name: problem-details.md
+    title: Problem Definition
+    description: Observable signs, root causes, common confusions, and consequences of leaving the problem unaddressed.
+    contributors:
+      - name: Elise Keith
+        affiliation: Lucid Meetings
+        role: Author
+        url: https://www.linkedin.com/in/elisekeith/
+references: []
+origin: []
+

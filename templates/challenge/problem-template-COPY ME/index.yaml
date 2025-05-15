@@ -1,0 +1,45 @@
+---
+type: challenge
+id: your-id-here
+name: Your Display Name
+category: problem
+alias:
+  - alternative-name-1
+  - alternative-name-2
+  # Add more as needed
+
+description: >
+  A short summary (1–2 sentences) of what this is and how it's useful.
+
+image: your-image-name.svg  # Leave blank or omit if no image
+
+tags:
+  - relevant-tag-1
+  - relevant-tag-2
+  # Use lowercase, hyphenated tags for consistency
+
+files:
+  - name: problem-details.md
+    title: Problem Definition
+    description: Observable signs, root causes, common confusions, and consequences of leaving the problem unaddressed.
+    contributors:
+      - name: Your Name
+        affiliation: Your Organization
+        role: Author
+        url: A link to you
+
+  # Add more file entries as needed (e.g., diagrams, PDFs)
+
+references:
+  - title: Reference Title
+    author: Author Name
+    publication: Optional Publication Name
+    url: https://example.com
+  # Optional — include as needed
+
+origin:
+  - name: Source or Author
+    url: https://optional-source-link.com
+    description: >
+      A short note about where this came from or how it evolved.
+
