@@ -28,18 +28,12 @@ Copy-and-fill folders for each type:
 - `problem-template-COPY ME/`
 - `goal-template-COPY ME/`
 
-### `schema/` _(optional)_
-Validation rules for YAML and frontmatter.
-
-### `scripts/` _(optional)_
-Linting tools, renderers, or static site generators.
-
 ---
 
 ## 🧠 What is WoW OS?
 
 WoW OS is a modular, open-source system for designing how organizations collaborate.  
-It helps teams and leaders improve their **collaborative ecosystems** using reusable Elements, actionable Playbooks, and well-defined Challenges.
+Our goal is to help teams and leaders improve their **collaborative ecosystems** using reusable Elements, actionable Playbooks, and well-defined Challenges.
 
 You can:
 - Combine Elements to fit your team’s context
